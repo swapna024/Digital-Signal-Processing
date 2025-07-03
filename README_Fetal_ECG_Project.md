@@ -1,5 +1,5 @@
 
-# 🫀 Fetal ECG Extraction using MATLAB (DSP Project)
+# 🫀 Fetal ECG Extraction using MATLAB
 
 This project focuses on extracting the **fetal ECG (fECG)** signal from a mixed abdominal ECG using **advanced signal processing techniques in MATLAB**. The signal is often dominated by the maternal ECG (mECG) and noise, making separation a challenging task.
 
